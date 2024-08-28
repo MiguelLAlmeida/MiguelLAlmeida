@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://i.pinimg.com/564x/70/b4/0a/70b40ae8cca2ba1ee9ea975c63c579e6.jpg" style="width: 200%; border: none;"/>
+       <img src="https://i.pinimg.com/564x/70/b4/0a/70b40ae8cca2ba1ee9ea975c63c579e6.jpg" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
