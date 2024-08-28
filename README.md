@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://sm.ign.com/ign_br/screenshot/default/21222628192441_7dtj.jpg" style="width: 100%; border: none;"/>
+       <img src="https://wallpapers.com/images/hd/spider-verse-superhero-miles-morales-r3e9f4hoth7zyxri.jpg" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
