@@ -19,7 +19,7 @@
     |
     ├──bio.txt
     |   ├──he/him - brazilian - (pt-br)
-    |   ├──second-semester Informatics student at Cotuca
+    |   ├──third-semester Informatics student at Cotuca
     |   ├──affinity for front-end development
     |   ├──always eager to learn and explore new technologies
     │   ├──continuously improving my skills to become a versatile developer
@@ -33,12 +33,13 @@
     |   ├──python.py
     |   ├──html.html
     |   ├──css.css
+    |   ├──java.java
+    |   ├──sql.sql
+    |   ├──javascript.js
     |
     |
     ├──learning
-        ├──sql.sql
-        ├──javascript.js
-        ├──java.java
+        ├──c#.cs
         
   </tr>
 </table>
